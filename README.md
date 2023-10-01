@@ -1,3 +1,3 @@
-# portas_logicas.py
+# semana_2.py
 
-#repositorio com material de portas logicas da trilha de python
+#repositorio com material da segunda semana da trilha de Python. 
